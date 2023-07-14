@@ -1,0 +1,242 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_5C5FB8F7_4AA3_3C42_41AC_5D025AEAA9DD.source = https://drive.google.com/file/d/1mMZgPN_25A3HGlogk5-YURzNIgmfxRe4/view?usp=drive_link
+LinkBehaviour_5FACD036_4AA3_0BC2_417F_D8B75EAA5FB0.source = https://nedareindonesia.com/
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!4v1689342532838!6m8!1m7!1syffG2jbsHNOJcSeLVtUWBA!2m2!1d-6.319005825719359!2d106.8154073836519!3f0.08377085484121105!4f2.739916422889337!5f0.4000000000000002
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!4v1689342532838!6m8!1m7!1syffG2jbsHNOJcSeLVtUWBA!2m2!1d-6.319005825719359!2d106.8154073836519!3f0.08377085484121105!4f2.739916422889337!5f0.4000000000000002
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_40BB03C8_54BF_8FE2_41C4_317CBCCE2806.toolTip = Click here
+HotspotPanoramaOverlayArea_56FD671A_4AEF_15C2_41B3_0DBA94625EB4.toolTip = Click here
+
+## Media
+
+### Image
+imlevel_4E917DF0_54B9_BBA2_41D2_CDC7E69FCFE3.url = media/popup_477108BD_54B8_79A2_41CB_B19A7F7E687F_en_0_0.jpg
+imlevel_4E916DF0_54B9_BBA2_41AA_0C861C3442CF.url = media/popup_477108BD_54B8_79A2_41CB_B19A7F7E687F_en_0_1.jpg
+imlevel_4E919DF0_54B9_BBA2_41D2_63FA7A3CC387.url = media/popup_477108BD_54B8_79A2_41CB_B19A7F7E687F_en_0_2.jpg
+imlevel_4E918DF0_54B9_BBA2_41D0_4EC6BEF9657A.url = media/popup_477108BD_54B8_79A2_41CB_B19A7F7E687F_en_0_3.jpg
+imlevel_4E91BDF1_54B9_BBA2_41C7_E30BE292956B.url = media/popup_477108BD_54B8_79A2_41CB_B19A7F7E687F_en_0_4.jpg
+imlevel_4E91ADF1_54B9_BBA2_41A2_4B1E4CC1B597.url = media/popup_477108BD_54B8_79A2_41CB_B19A7F7E687F_en_0_5.jpg
+imlevel_6B93265B_4AE3_1442_41C3_16AE0B95946F.url = media/popup_5447FA70_4AE3_3C5E_4199_92234DB03A3A_en_0_0.jpg
+imlevel_6B93365C_4AE3_1446_41D2_29DA7BFA76DE.url = media/popup_5447FA70_4AE3_3C5E_4199_92234DB03A3A_en_0_1.jpg
+imlevel_6B93465C_4AE3_1446_41A7_CE0272EE2463.url = media/popup_5447FA70_4AE3_3C5E_4199_92234DB03A3A_en_0_2.jpg
+imlevel_6B93565C_4AE3_1446_41A8_7FD7F94392DD.url = media/popup_5447FA70_4AE3_3C5E_4199_92234DB03A3A_en_0_3.jpg
+imlevel_6B91565C_4AE3_1446_41A6_88CB9E27E308.url = media/popup_5447FA70_4AE3_3C5E_4199_92234DB03A3A_en_0_4.jpg
+imlevel_68E23FF4_4AE3_3446_41CA_6EAB96B04695.url = media/popup_54D18B6C_4AED_1C46_4190_3D0A5CEC7792_en_0_0.jpg
+imlevel_68E22FF5_4AE3_3446_41C2_8FD059C45946.url = media/popup_54D18B6C_4AED_1C46_4190_3D0A5CEC7792_en_0_1.jpg
+imlevel_68E25FF5_4AE3_3446_4197_8314514C707A.url = media/popup_54D18B6C_4AED_1C46_4190_3D0A5CEC7792_en_0_2.jpg
+imlevel_68E27FF5_4AE3_3446_41BD_AA0466C6B4E9.url = media/popup_54D18B6C_4AED_1C46_4190_3D0A5CEC7792_en_0_3.jpg
+imlevel_68E38FF5_4AE3_3446_41C2_0B0FC38BF3E2.url = media/popup_54D18B6C_4AED_1C46_4190_3D0A5CEC7792_en_0_4.jpg
+imlevel_6B7761CF_4AE3_0C42_41C9_0F566B8DF8D1.url = media/popup_54FA9B88_4AE5_1CCE_41D2_A83644E5802E_en_0_0.jpg
+imlevel_6B7771CF_4AE3_0C42_41A7_48BC9B2BDD46.url = media/popup_54FA9B88_4AE5_1CCE_41D2_A83644E5802E_en_0_1.jpg
+imlevel_6B7741D0_4AE3_0C5E_41A8_6D3A8CBC3C67.url = media/popup_54FA9B88_4AE5_1CCE_41D2_A83644E5802E_en_0_2.jpg
+imlevel_6B7751D0_4AE3_0C5E_41B6_950D6D91C592.url = media/popup_54FA9B88_4AE5_1CCE_41D2_A83644E5802E_en_0_3.jpg
+imlevel_6B7701D0_4AE3_0C5E_41D1_687B6431F78E.url = media/popup_54FA9B88_4AE5_1CCE_41D2_A83644E5802E_en_0_4.jpg
+imlevel_6BA9A380_4AE3_0CBE_41B3_113F4E9FC0B7.url = media/popup_57215702_4AE3_15C2_41C9_5DDF82B3012C_en_0_0.jpg
+imlevel_6BAA5380_4AE3_0CBE_41BC_9D216912A4CE.url = media/popup_57215702_4AE3_15C2_41C9_5DDF82B3012C_en_0_1.jpg
+imlevel_6BAA7381_4AE3_0CBE_41C4_2C0BC945FCD7.url = media/popup_57215702_4AE3_15C2_41C9_5DDF82B3012C_en_0_2.jpg
+imlevel_6BAA1381_4AE3_0CBE_41CC_086D06AC4663.url = media/popup_57215702_4AE3_15C2_41C9_5DDF82B3012C_en_0_3.jpg
+imlevel_6BA81381_4AE3_0CBE_416A_F85916065C0A.url = media/popup_57215702_4AE3_15C2_41C9_5DDF82B3012C_en_0_4.jpg
+imlevel_6BBC2511_4AE3_15DE_41D0_A9D3651A9B30.url = media/popup_5722FAB8_4AE3_3CCE_419D_CC445F8CAD63_en_0_0.jpg
+imlevel_6BBC3512_4AE3_15C2_41CC_A7401C40F006.url = media/popup_5722FAB8_4AE3_3CCE_419D_CC445F8CAD63_en_0_1.jpg
+imlevel_6BBC0512_4AE3_15C2_4155_B56A1CBFD4E1.url = media/popup_5722FAB8_4AE3_3CCE_419D_CC445F8CAD63_en_0_2.jpg
+imlevel_6BBC6512_4AE3_15C2_41D2_1678D0BEDBAD.url = media/popup_5722FAB8_4AE3_3CCE_419D_CC445F8CAD63_en_0_3.jpg
+imlevel_6B821512_4AE3_15C2_41D1_DA7CB3A63C0E.url = media/popup_5722FAB8_4AE3_3CCE_419D_CC445F8CAD63_en_0_4.jpg
+imlevel_6AE4CCBB_4AE3_34C2_41A2_3B0F9EFFD861.url = media/popup_57271A30_4AE7_1FDE_41C6_0E65B74162BA_en_0_0.jpg
+imlevel_6AE4FCBB_4AE3_34C2_41BA_4BFA1DAFC7C4.url = media/popup_57271A30_4AE7_1FDE_41C6_0E65B74162BA_en_0_1.jpg
+imlevel_6AE4ECBC_4AE3_34C6_41B6_AEF6B4ED5452.url = media/popup_57271A30_4AE7_1FDE_41C6_0E65B74162BA_en_0_2.jpg
+imlevel_6AE49CBC_4AE3_34C6_41CA_F98DCD1A5520.url = media/popup_57271A30_4AE7_1FDE_41C6_0E65B74162BA_en_0_3.jpg
+imlevel_6AEB9CBC_4AE3_34C6_41D0_1196DBE93477.url = media/popup_57271A30_4AE7_1FDE_41C6_0E65B74162BA_en_0_4.jpg
+imlevel_6A4D6A0D_4A9D_3FC6_41AE_96DD1FFC9AC4.url = media/popup_5737EA9E_4AE5_FCC2_41B2_5D79EA309443_en_0_0.jpg
+imlevel_6A4D9A0D_4A9D_3FC6_41BC_8086C80890C4.url = media/popup_5737EA9E_4AE5_FCC2_41B2_5D79EA309443_en_0_1.jpg
+imlevel_6A4D8A0E_4A9D_3FC2_41CE_B2A0EA46E12A.url = media/popup_5737EA9E_4AE5_FCC2_41B2_5D79EA309443_en_0_2.jpg
+imlevel_6A4DBA0E_4A9D_3FC2_4199_554893CD5CE8.url = media/popup_5737EA9E_4AE5_FCC2_41B2_5D79EA309443_en_0_3.jpg
+imlevel_6A52BA0E_4A9D_3FC2_4197_BE11C82B8412.url = media/popup_5737EA9E_4AE5_FCC2_41B2_5D79EA309443_en_0_4.jpg
+imlevel_6AB8EB77_4A9C_FC42_41CB_CCF14F5B7DA3.url = media/popup_57899C62_4AE5_1442_415C_01B92D3E26E1_en_0_0.jpg
+imlevel_6AB8DB77_4A9C_FC42_4189_90837A7D1212.url = media/popup_57899C62_4AE5_1442_415C_01B92D3E26E1_en_0_1.jpg
+imlevel_6AB8CB77_4A9C_FC42_41B4_7619D3C48863.url = media/popup_57899C62_4AE5_1442_415C_01B92D3E26E1_en_0_2.jpg
+imlevel_6AB8BB78_4A9C_FC4E_41BA_30549C7FED82.url = media/popup_57899C62_4AE5_1442_415C_01B92D3E26E1_en_0_3.jpg
+imlevel_6ABFBB78_4A9C_FC4E_41D2_2B854F7A3B2B.url = media/popup_57899C62_4AE5_1442_415C_01B92D3E26E1_en_0_4.jpg
+imlevel_6854EE9E_4AE3_74C2_41C2_8EDE6E32CD4B.url = media/popup_57BD1386_4AED_0CC2_41C1_0F60E4EEE9AB_en_0_0.jpg
+imlevel_6854DE9E_4AE3_74C2_41B5_3EDDBCEBC61C.url = media/popup_57BD1386_4AED_0CC2_41C1_0F60E4EEE9AB_en_0_1.jpg
+imlevel_68543E9E_4AE3_74C2_41BB_F173B825A27F.url = media/popup_57BD1386_4AED_0CC2_41C1_0F60E4EEE9AB_en_0_2.jpg
+imlevel_68542E9F_4AE3_74C2_41AB_26AF63574BB1.url = media/popup_57BD1386_4AED_0CC2_41C1_0F60E4EEE9AB_en_0_3.jpg
+imlevel_68540E9F_4AE3_74C2_41A8_CB9539F64759.url = media/popup_57BD1386_4AED_0CC2_41C1_0F60E4EEE9AB_en_0_4.jpg
+imlevel_6B287105_4AE3_0DC6_41C8_B824D55F7F2D.url = media/popup_57E5F8D0_4AEF_1C5E_419F_97347A2CB5BF_en_0_0.jpg
+imlevel_6B298105_4AE3_0DC6_41D2_6819C523ACC4.url = media/popup_57E5F8D0_4AEF_1C5E_419F_97347A2CB5BF_en_0_1.jpg
+imlevel_6B299105_4AE3_0DC6_41C4_28FE79E1A65B.url = media/popup_57E5F8D0_4AEF_1C5E_419F_97347A2CB5BF_en_0_2.jpg
+imlevel_6B29B106_4AE3_0DC2_41B0_89B054C2F44A.url = media/popup_57E5F8D0_4AEF_1C5E_419F_97347A2CB5BF_en_0_3.jpg
+imlevel_6B29C106_4AE3_0DC2_4186_612ABDDEE589.url = media/popup_57E5F8D0_4AEF_1C5E_419F_97347A2CB5BF_en_0_4.jpg
+imlevel_5CA60A7D_4AEF_1C46_4199_53D4CACD3BB9.url = media/popup_5C017246_4AED_0C42_41C3_2CD2CC7858ED_en_0_0.jpg
+imlevel_5CA61A7D_4AEF_1C46_41B4_7336E16DD78A.url = media/popup_5C017246_4AED_0C42_41C3_2CD2CC7858ED_en_0_1.jpg
+imlevel_5CA62A7D_4AEF_1C46_41C1_BD0057A93FC7.url = media/popup_5C017246_4AED_0C42_41C3_2CD2CC7858ED_en_0_2.jpg
+imlevel_5CA64A7D_4AEF_1C46_41CC_16F69396B565.url = media/popup_5C017246_4AED_0C42_41C3_2CD2CC7858ED_en_0_3.jpg
+imlevel_5CA66A7D_4AEF_1C46_419B_C80A03C85BFA.url = media/popup_5C017246_4AED_0C42_41C3_2CD2CC7858ED_en_0_4.jpg
+imlevel_5CF2C40B_4AED_0BC2_41CB_A4A18688812D.url = media/popup_5C060161_4AE5_0C7E_4171_06484F360B91_en_0_0.jpg
+imlevel_5CF2D40B_4AED_0BC2_418E_E50805F59ABE.url = media/popup_5C060161_4AE5_0C7E_4171_06484F360B91_en_0_1.jpg
+imlevel_5CF2A40B_4AED_0BC2_41D1_41A0499562E1.url = media/popup_5C060161_4AE5_0C7E_4171_06484F360B91_en_0_2.jpg
+imlevel_5CF2B40B_4AED_0BC2_41C2_B62E411BF07A.url = media/popup_5C060161_4AE5_0C7E_4171_06484F360B91_en_0_3.jpg
+imlevel_5CF0A40C_4AED_0BC6_41A5_DFB8816A2998.url = media/popup_5C060161_4AE5_0C7E_4171_06484F360B91_en_0_4.jpg
+imlevel_5C5651B6_4AE3_0CC2_41B2_62C828EEBE8F.url = media/popup_5C26ACDD_4AED_3446_4190_E783C086F2E3_en_0_0.jpg
+imlevel_5C5641B6_4AE3_0CC2_41D1_1F0383961230.url = media/popup_5C26ACDD_4AED_3446_4190_E783C086F2E3_en_0_1.jpg
+imlevel_5C5671B6_4AE3_0CC2_41C8_5F5FCB66DDC2.url = media/popup_5C26ACDD_4AED_3446_4190_E783C086F2E3_en_0_2.jpg
+imlevel_5C5661B6_4AE3_0CC2_41A3_C180EBF68F77.url = media/popup_5C26ACDD_4AED_3446_4190_E783C086F2E3_en_0_3.jpg
+imlevel_5C5791B6_4AE3_0CC2_41D1_75D13DF5DB4F.url = media/popup_5C26ACDD_4AED_3446_4190_E783C086F2E3_en_0_4.jpg
+imlevel_5C5D18F4_4AE3_3C46_41B4_641C3DB1B3D5.url = media/popup_5C2EE477_4AED_1442_41CB_0E7BED1B7281_en_0_0.jpg
+imlevel_5C5D08F4_4AE3_3C46_41A5_7EE886E3EB34.url = media/popup_5C2EE477_4AED_1442_41CB_0E7BED1B7281_en_0_1.jpg
+imlevel_5C5D38F4_4AE3_3C46_41BA_4FE54DE20F01.url = media/popup_5C2EE477_4AED_1442_41CB_0E7BED1B7281_en_0_2.jpg
+imlevel_5C5D28F4_4AE3_3C46_41D1_0A83A738023F.url = media/popup_5C2EE477_4AED_1442_41CB_0E7BED1B7281_en_0_3.jpg
+imlevel_5C5D48F4_4AE3_3C46_41C7_DF7D7EAC6C4D.url = media/popup_5C2EE477_4AED_1442_41CB_0E7BED1B7281_en_0_4.jpg
+imlevel_5C97CDF8_4AEC_F44E_419E_5E3B6D10C081.url = media/popup_5C516A09_4AE3_FFCE_41D1_54215B145D95_en_0_0.jpg
+imlevel_5C97BDF8_4AEC_F44E_41D1_9A9EDEA58FDD.url = media/popup_5C516A09_4AE3_FFCE_41D1_54215B145D95_en_0_1.jpg
+imlevel_5C979DF8_4AEC_F44E_419A_7DEB4D33D350.url = media/popup_5C516A09_4AE3_FFCE_41D1_54215B145D95_en_0_2.jpg
+imlevel_5C978DF8_4AEC_F44E_41C4_887D4C7D4042.url = media/popup_5C516A09_4AE3_FFCE_41D1_54215B145D95_en_0_3.jpg
+imlevel_5C977DF8_4AEC_F44E_41D1_650C4172EA03.url = media/popup_5C516A09_4AE3_FFCE_41D1_54215B145D95_en_0_4.jpg
+imlevel_5C8F373F_4AEC_F5C2_41C5_C635B9A442EA.url = media/popup_5C5E2CBE_4AE3_74C3_41A1_6C5DE68618B7_en_0_0.jpg
+imlevel_5C8F273F_4AEC_F5C2_419D_65AC418965B6.url = media/popup_5C5E2CBE_4AE3_74C3_41A1_6C5DE68618B7_en_0_1.jpg
+imlevel_5C8F173F_4AEC_F5C2_418F_066C246F6ADC.url = media/popup_5C5E2CBE_4AE3_74C3_41A1_6C5DE68618B7_en_0_2.jpg
+imlevel_5C8F073F_4AEC_F5C2_41C4_1D0A8FB3A8B3.url = media/popup_5C5E2CBE_4AE3_74C3_41A1_6C5DE68618B7_en_0_3.jpg
+imlevel_5C8EE73F_4AEC_F5C2_41B4_D00907942850.url = media/popup_5C5E2CBE_4AE3_74C3_41A1_6C5DE68618B7_en_0_4.jpg
+imlevel_5C817067_4AED_0C42_41CA_B9EA4104DCDF.url = media/popup_5C693AC1_4AE5_1CBE_41C6_064D77B5CAFD_en_0_0.jpg
+imlevel_5C816067_4AED_0C42_41CB_DBDEDBB52B11.url = media/popup_5C693AC1_4AE5_1CBE_41C6_064D77B5CAFD_en_0_1.jpg
+imlevel_5C815067_4AED_0C42_41CB_95243E8CB92A.url = media/popup_5C693AC1_4AE5_1CBE_41C6_064D77B5CAFD_en_0_2.jpg
+imlevel_5C814067_4AED_0C42_41B9_A5117FA8C75B.url = media/popup_5C693AC1_4AE5_1CBE_41C6_064D77B5CAFD_en_0_3.jpg
+imlevel_5C813067_4AED_0C42_41C2_C48B076EC9F8.url = media/popup_5C693AC1_4AE5_1CBE_41C6_064D77B5CAFD_en_0_4.jpg
+imlevel_5CE88A66_4AED_3C42_41B5_761313EB8A90.url = media/popup_5C8FF0DD_4AE7_0C46_41C1_5DBA0CA745AC_en_0_0.jpg
+imlevel_5CE8BA66_4AED_3C42_41B3_3014EEC4AAD0.url = media/popup_5C8FF0DD_4AE7_0C46_41C1_5DBA0CA745AC_en_0_1.jpg
+imlevel_5CE8AA66_4AED_3C42_41C9_63EC6CD00C36.url = media/popup_5C8FF0DD_4AE7_0C46_41C1_5DBA0CA745AC_en_0_2.jpg
+imlevel_5CE84A66_4AED_3C42_41CA_B5477ACF3319.url = media/popup_5C8FF0DD_4AE7_0C46_41C1_5DBA0CA745AC_en_0_3.jpg
+imlevel_5CE87A66_4AED_3C42_41BC_46F43904CA2F.url = media/popup_5C8FF0DD_4AE7_0C46_41C1_5DBA0CA745AC_en_0_4.jpg
+imlevel_5F6C4110_4A9D_0DDE_41B4_AB04E6411E0E.url = media/popup_5C9AB3C0_4A9D_0CBE_41C3_FD29E63742BF_en_0_0.jpg
+imlevel_5F6C7110_4A9D_0DDE_41A1_8C8E8240508E.url = media/popup_5C9AB3C0_4A9D_0CBE_41C3_FD29E63742BF_en_0_1.jpg
+imlevel_5F6C6110_4A9D_0DDE_41B7_43BC80185403.url = media/popup_5C9AB3C0_4A9D_0CBE_41C3_FD29E63742BF_en_0_2.jpg
+imlevel_5F6B9110_4A9D_0DDE_41C2_C8E3D0A2E03F.url = media/popup_5C9AB3C0_4A9D_0CBE_41C3_FD29E63742BF_en_0_3.jpg
+imlevel_5F6B8110_4A9D_0DDE_41CA_72329C3D3AE5.url = media/popup_5C9AB3C0_4A9D_0CBE_41C3_FD29E63742BF_en_0_4.jpg
+imlevel_5C4C19BC_4AE3_1CC6_41C4_A68BEC953E7C.url = media/popup_5CD97724_4AE3_75C6_412C_A9BCAF5410E0_en_0_0.jpg
+imlevel_5C4C69BC_4AE3_1CC6_41CD_A8A19089F416.url = media/popup_5CD97724_4AE3_75C6_412C_A9BCAF5410E0_en_0_1.jpg
+imlevel_5C4C79BC_4AE3_1CC6_41D2_881620D42696.url = media/popup_5CD97724_4AE3_75C6_412C_A9BCAF5410E0_en_0_2.jpg
+imlevel_5C4C49BC_4AE3_1CC6_41CA_7D7182A4EE8B.url = media/popup_5CD97724_4AE3_75C6_412C_A9BCAF5410E0_en_0_3.jpg
+imlevel_5C4C59BC_4AE3_1CC6_41C6_678791D7B051.url = media/popup_5CD97724_4AE3_75C6_412C_A9BCAF5410E0_en_0_4.jpg
+imlevel_5CAD4730_4AE3_15DE_41CD_F3D19FF63AF0.url = media/popup_5CF37AEE_4AED_1C42_41C3_4BD1FB875F89_en_0_0.jpg
+imlevel_5CAD6730_4AE3_15DE_41D2_7657FECAEE3D.url = media/popup_5CF37AEE_4AED_1C42_41C3_4BD1FB875F89_en_0_1.jpg
+imlevel_5CAD7730_4AE3_15DE_41D0_F9EB5C826812.url = media/popup_5CF37AEE_4AED_1C42_41C3_4BD1FB875F89_en_0_2.jpg
+imlevel_5CAE9730_4AE3_15DE_4191_9AA719404220.url = media/popup_5CF37AEE_4AED_1C42_41C3_4BD1FB875F89_en_0_3.jpg
+imlevel_5CAEA730_4AE3_15DE_41CF_A7645CEEAE85.url = media/popup_5CF37AEE_4AED_1C42_41C3_4BD1FB875F89_en_0_4.jpg
+imlevel_5C437FA7_4AE3_34C2_41D1_349E9A19E0F2.url = media/popup_5DF6B64A_4AE3_7442_41B4_89EB89540AFE_en_0_0.jpg
+imlevel_5C449FA7_4AE3_34C2_41A9_BD33DDB7F020.url = media/popup_5DF6B64A_4AE3_7442_41B4_89EB89540AFE_en_0_1.jpg
+imlevel_5C448FA7_4AE3_34C2_41A0_8023865F72B8.url = media/popup_5DF6B64A_4AE3_7442_41B4_89EB89540AFE_en_0_2.jpg
+imlevel_5C44BFA7_4AE3_34C2_41CA_AD4F1FBBF2CD.url = media/popup_5DF6B64A_4AE3_7442_41B4_89EB89540AFE_en_0_3.jpg
+imlevel_5C44AFA7_4AE3_34C2_41D1_E87684979125.url = media/popup_5DF6B64A_4AE3_7442_41B4_89EB89540AFE_en_0_4.jpg
+imlevel_5CAFF056_4AEF_0C42_41BF_547A381D96CB.url = media/popup_5F0E91E5_4AED_0C46_41D2_64520D367CDF_en_0_0.jpg
+imlevel_5CAFE056_4AEF_0C42_41CF_944835D236BF.url = media/popup_5F0E91E5_4AED_0C46_41D2_64520D367CDF_en_0_1.jpg
+imlevel_5CAC1056_4AEF_0C42_41C5_E954C0BA4E5C.url = media/popup_5F0E91E5_4AED_0C46_41D2_64520D367CDF_en_0_2.jpg
+imlevel_5CAC0056_4AEF_0C42_41C0_2FA4E4B7F282.url = media/popup_5F0E91E5_4AED_0C46_41D2_64520D367CDF_en_0_3.jpg
+imlevel_5CAE1057_4AEF_0C42_41CE_54DC20E77558.url = media/popup_5F0E91E5_4AED_0C46_41D2_64520D367CDF_en_0_4.jpg
+imlevel_5C9C94C0_4AEF_14BE_41CC_18404E4EEC9B.url = media/popup_5F3030FE_4AE3_0C42_41C7_A5E81E6F65CD_en_0_0.jpg
+imlevel_5C9CA4C0_4AEF_14BE_41CB_970136B521A1.url = media/popup_5F3030FE_4AE3_0C42_41C7_A5E81E6F65CD_en_0_1.jpg
+imlevel_5C9CC4C0_4AEF_14BE_41B9_F45C94CAD6B9.url = media/popup_5F3030FE_4AE3_0C42_41C7_A5E81E6F65CD_en_0_2.jpg
+imlevel_5C9CE4C0_4AEF_14BE_41D1_0018DFA8423D.url = media/popup_5F3030FE_4AE3_0C42_41C7_A5E81E6F65CD_en_0_3.jpg
+imlevel_5C9CF4C1_4AEF_14BE_41BC_580E456D6D22.url = media/popup_5F3030FE_4AE3_0C42_41C7_A5E81E6F65CD_en_0_4.jpg
+imlevel_5F74A75B_4A9D_1442_41BA_252C0DB6E80F.url = media/popup_5F8976D3_4A9F_1442_4196_9961886B1569_en_0_0.jpg
+imlevel_5F74B75B_4A9D_1442_4198_F640A421F85A.url = media/popup_5F8976D3_4A9F_1442_4196_9961886B1569_en_0_1.jpg
+imlevel_5F74C75B_4A9D_1442_41D1_8C2B51E44193.url = media/popup_5F8976D3_4A9F_1442_4196_9961886B1569_en_0_2.jpg
+imlevel_5F74D75B_4A9D_1442_41CE_43E4ED54F6AC.url = media/popup_5F8976D3_4A9F_1442_4196_9961886B1569_en_0_3.jpg
+imlevel_5F74E75B_4A9D_1442_41BE_42B6362D8CE3.url = media/popup_5F8976D3_4A9F_1442_4196_9961886B1569_en_0_4.jpg
+imlevel_5CE1E069_4AED_0C4E_41B7_D9BF22DDDDCD.url = media/popup_5F99DFE5_4AE5_7446_41B0_0A647EB130DF_en_0_0.jpg
+imlevel_5CE19069_4AED_0C4E_419C_BD67A7B9B1DB.url = media/popup_5F99DFE5_4AE5_7446_41B0_0A647EB130DF_en_0_1.jpg
+imlevel_5CE18069_4AED_0C4E_41D0_4A6B08D55AC3.url = media/popup_5F99DFE5_4AE5_7446_41B0_0A647EB130DF_en_0_2.jpg
+imlevel_5CE1A069_4AED_0C4E_41B1_D8F8E95685EA.url = media/popup_5F99DFE5_4AE5_7446_41B0_0A647EB130DF_en_0_3.jpg
+imlevel_5CE14069_4AED_0C4E_41D2_0EA811E33F42.url = media/popup_5F99DFE5_4AE5_7446_41B0_0A647EB130DF_en_0_4.jpg
+imlevel_5CFBB9B1_4AED_1CDE_41C3_AD99EA0D1824.url = media/popup_5FBB9072_4AE5_0C42_4189_A2F89EDAAAE5_en_0_0.jpg
+imlevel_5CFB89B1_4AED_1CDE_4172_B67E6AC8EB6C.url = media/popup_5FBB9072_4AE5_0C42_4189_A2F89EDAAAE5_en_0_1.jpg
+imlevel_5CFB99B1_4AED_1CDE_41D0_04A6674652F4.url = media/popup_5FBB9072_4AE5_0C42_4189_A2F89EDAAAE5_en_0_2.jpg
+imlevel_5CFB69B2_4AED_1CC2_41A0_9B3DB4A2A6B5.url = media/popup_5FBB9072_4AE5_0C42_4189_A2F89EDAAAE5_en_0_3.jpg
+imlevel_5CFB79B2_4AED_1CC2_41C4_56C668DE99B6.url = media/popup_5FBB9072_4AE5_0C42_4189_A2F89EDAAAE5_en_0_4.jpg
+imlevel_46B4BD57_54A8_98EF_41B1_9B4C3058041C.url = media/popup_68DEDA0D_4A9D_1FC6_41AA_BA11AED4405A_en_0_0.jpg
+imlevel_46B47D57_54A8_98EF_41D4_D89C5009E4CF.url = media/popup_68DEDA0D_4A9D_1FC6_41AA_BA11AED4405A_en_0_1.jpg
+imlevel_46B41D57_54A8_98EF_41C5_DB9C184754AB.url = media/popup_68DEDA0D_4A9D_1FC6_41AA_BA11AED4405A_en_0_2.jpg
+imlevel_46B43D57_54A8_98EF_41C0_89F849420D9E.url = media/popup_68DEDA0D_4A9D_1FC6_41AA_BA11AED4405A_en_0_3.jpg
+imlevel_46B5CD57_54A8_98EF_41B1_6B29BE70A024.url = media/popup_68DEDA0D_4A9D_1FC6_41AA_BA11AED4405A_en_0_4.jpg
+imlevel_44178BCB_54A8_9FE6_41A8_EC8B0E3019D7.url = media/popup_6B09FBF0_4A9D_1C5E_41C9_A76F07C55266_en_0_0.jpg
+imlevel_44179BCB_54A8_9FE6_41C9_03069860AB2D.url = media/popup_6B09FBF0_4A9D_1C5E_41C9_A76F07C55266_en_0_1.jpg
+imlevel_44176BCB_54A8_9FE6_41AA_41D606EF559C.url = media/popup_6B09FBF0_4A9D_1C5E_41C9_A76F07C55266_en_0_2.jpg
+imlevel_44177BCC_54A8_9FE2_41D0_3C79641EC352.url = media/popup_6B09FBF0_4A9D_1C5E_41C9_A76F07C55266_en_0_3.jpg
+imlevel_44174BCC_54A8_9FE2_41D3_130D70441912.url = media/popup_6B09FBF0_4A9D_1C5E_41C9_A76F07C55266_en_0_4.jpg
+imlevel_44501AC6_54A9_99EE_41C9_7F9B89408187.url = media/popup_6B0F7697_4AA3_34C2_41CC_22D8F0F3AF90_en_0_0.jpg
+imlevel_44503AC6_54A9_99EE_41B2_1BE0FBD2E5ED.url = media/popup_6B0F7697_4AA3_34C2_41CC_22D8F0F3AF90_en_0_1.jpg
+imlevel_44504AC6_54A9_99EE_41A9_6D78AF043244.url = media/popup_6B0F7697_4AA3_34C2_41CC_22D8F0F3AF90_en_0_2.jpg
+imlevel_44505AC6_54A9_99EE_41D4_BDF4DFCA82C8.url = media/popup_6B0F7697_4AA3_34C2_41CC_22D8F0F3AF90_en_0_3.jpg
+imlevel_44506AC7_54A9_99EE_4181_10592E5111C8.url = media/popup_6B0F7697_4AA3_34C2_41CC_22D8F0F3AF90_en_0_4.jpg
+imlevel_457F3EE6_54A8_99AE_41C3_C5D1F9413038.url = media/popup_6B24B537_4A9F_75C2_41C5_537B8A0E3A80_en_0_0.jpg
+imlevel_457F0EE6_54A8_99AE_41CA_477783FE3139.url = media/popup_6B24B537_4A9F_75C2_41C5_537B8A0E3A80_en_0_1.jpg
+imlevel_457F1EE6_54A8_99AE_41B9_396DA0659A53.url = media/popup_6B24B537_4A9F_75C2_41C5_537B8A0E3A80_en_0_2.jpg
+imlevel_457F7EE7_54A8_99AF_41CD_120CA2D1D565.url = media/popup_6B24B537_4A9F_75C2_41C5_537B8A0E3A80_en_0_3.jpg
+imlevel_457F5EE7_54A8_99AF_41C8_0621908A41A2.url = media/popup_6B24B537_4A9F_75C2_41C5_537B8A0E3A80_en_0_4.jpg
+imlevel_453BBBA6_54A8_9FAE_41D2_C64E1645C9E6.url = media/popup_6BF5D2E4_4A9F_0C46_41C9_E85F19AB4B2E_en_0_0.jpg
+imlevel_453BCBA6_54A8_9FA8_41C6_D0DC4C8265AE.url = media/popup_6BF5D2E4_4A9F_0C46_41C9_E85F19AB4B2E_en_0_1.jpg
+imlevel_453BFBAC_54A8_9FA2_41B6_FB7EAE52D12F.url = media/popup_6BF5D2E4_4A9F_0C46_41C9_E85F19AB4B2E_en_0_2.jpg
+imlevel_453B0BAC_54A8_9FA2_41C6_C9B0C48F2513.url = media/popup_6BF5D2E4_4A9F_0C46_41C9_E85F19AB4B2E_en_0_3.jpg
+imlevel_453B2BAC_54A8_9FA2_41BB_613BC2CEA5A2.url = media/popup_6BF5D2E4_4A9F_0C46_41C9_E85F19AB4B2E_en_0_4.jpg
+
+### Popup Image
+
+### Title
+panorama_47D99A0B_4A9D_1FC2_41B2_2A8967090C95.label = GS__8529
+panorama_4694EA2D_4A9D_3FC6_418C_7B8608E324D3.label = GS__8530
+panorama_47A273EF_54A8_8FBE_41D1_32C3CB771524.label = GS__8538
+panorama_469A28A5_4A9D_1CC6_41C6_77D6002CC86F.label = GS__8539
+video_5F568C53_4AA5_3442_41C8_622686447861.label = Observasi Arsip Nedare
+
+### Video
+videolevel_488EFAB0_54EB_99A2_41A8_4F2C6BB9280A.url = media/video_5F568C53_4AA5_3442_41C8_622686447861_en.mp4
+videolevel_488EFAB0_54EB_99A2_41A8_4F2C6BB9280A.posterURL = media/video_5F568C53_4AA5_3442_41C8_622686447861_poster_en.jpg
+
+## Skin
+
+### Button
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = FLOORPLAN
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52.label = INFO
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52_mobile.label = INFO
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0_mobile.label = INFO
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98.label = LOCATION
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98_mobile.label = LOCATION
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = PANORAMA LIST
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = PANORAMAS
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4.label = PHOTOALBUM
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4_mobile.label = PHOTOS
+Button_221B5648_0C06_E5FD_4198_40C786948FF0.label = lorem ipsum
+Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145_mobile.label = lorem ipsum
+
+### Image
+Image_1B99DD00_16C4_0505_41B3_51F09727447A.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_en.png
+Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile_en.png
+Image_48E029AF_54E7_9BBE_41D0_C435C129D5FF.url = skin/Image_48E029AF_54E7_9BBE_41D0_C435C129D5FF_en.jpg
+Image_48ED346A_54E8_88A1_418D_EC15CCE162A6.url = skin/Image_48ED346A_54E8_88A1_418D_EC15CCE162A6_en.png
+Image_4F4EF2A2_54E9_89A6_41CD_83782E69A084.url = skin/Image_4F4EF2A2_54E9_89A6_41CD_83782E69A084_en.png
+Image_4F768A32_54E8_78A6_41C2_55663D5214A5.url = skin/Image_4F768A32_54E8_78A6_41C2_55663D5214A5_en.png
+Image_5B910408_5498_8862_41D2_C489A6087662.url = skin/Image_5B910408_5498_8862_41D2_C489A6087662_en.jpg
+Image_5C2836B5_4AFF_F4C6_41CE_E170CB897DC6.url = skin/Image_5C2836B5_4AFF_F4C6_41CE_E170CB897DC6_en.png
+Image_5C3D4303_4AFD_0DC2_41B1_8F7758C15C7E.url = skin/Image_5C3D4303_4AFD_0DC2_41B1_8F7758C15C7E_en.png
+Image_5DDBDE64_4AFF_7446_41B6_D0B0CA8DA84F.url = skin/Image_5DDBDE64_4AFF_7446_41B6_D0B0CA8DA84F_en.png
+
+### Multiline Text
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:2.11764705882353vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.18vh;">  •  </SPAN><SPAN STYLE="font-size:2.12vh;font-family:'Arial Narrow';">Hadir sebagai bentuk inisiatif untuk mencatat pengetahuan tradisi dan mendokumentasikan ingatan seorang maestro tenun bernama Nazifah Sub’in (78 Tahun) yang biasa disapa dengan “Ude Dare” atau “Nedare” atas peristiwa kebudayaan yang tumbuh tepatnya di Desa Sumber Harapan, Dusun Semberang, Kabupaten Sambas, Kalimantan Barat.</SPAN></SPAN></DIV></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.260000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.26vh;font-family:'Bebas Neue Bold';">FLOORPLAN:</SPAN></SPAN></DIV></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.14vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.14vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">FLOORPLAN:</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.14vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.14vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.8039215686274512vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.8vmin;">Jl. Durian No.30A, RT.4/RW.4, Jagakarsa, Kec. Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12620</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.980000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.98vmin;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:9.730000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.73vmin;font-family:'Bebas Neue Bold';">Lorem ipsum</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:9.730000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.73vmin;font-family:'Bebas Neue Bold';">dolor sit amet</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.23vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">consectetur adipiscing elit. Morbi bibendum pharetra lorem, accumsan san nulla.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.04vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.23vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Bebas Neue Bold';"><B>Donec feugiat:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Menenun Ingatan Nedare 2023
